@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstudoEstruturaDados", "EstudoEstruturaDados\EstudoEstruturaDados.csproj", "{A400DC0A-F493-4ACF-9B1E-8A3C5D4D4ECA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArvoreAVL", "ArvoreAVL\ArvoreAVL.csproj", "{9E5F1909-781D-4784-A810-B0099C891C4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A400DC0A-F493-4ACF-9B1E-8A3C5D4D4ECA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A400DC0A-F493-4ACF-9B1E-8A3C5D4D4ECA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A400DC0A-F493-4ACF-9B1E-8A3C5D4D4ECA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A400DC0A-F493-4ACF-9B1E-8A3C5D4D4ECA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E5F1909-781D-4784-A810-B0099C891C4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E5F1909-781D-4784-A810-B0099C891C4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E5F1909-781D-4784-A810-B0099C891C4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E5F1909-781D-4784-A810-B0099C891C4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19CAA898-FEE0-4FC9-B965-D040B804740C}
+	EndGlobalSection
+EndGlobal
